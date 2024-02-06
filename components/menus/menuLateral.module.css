@@ -1,0 +1,13 @@
+.container {
+    height: 100vh;
+    background-color: rgb(27, 27, 27);
+    width: 300px;
+    padding: 20px;
+    
+}
+.container img {
+    margin-bottom: 20px;
+    background-color: white;
+    padding: 10px;
+    border-radius: 12px;
+}
